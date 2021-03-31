@@ -6,5 +6,5 @@
  for (var i = 0; i < zapatos.length; i++) {
     refBotones[i] = document.getElementById(i+"");             
     mensaje = 'Hola, he visto tu anuncio "' +  zapatos[i] +'"'  +", deseo conocer mas información";
-    refBotones[i].href = "https://api.whatsapp.com/send?phone=[57][3106022481]&text=" + mensaje;
+    refBotones[i].href = "https://api.whatsapp.com/send?phone=[57][3132557432]&text=" + mensaje;
  }
